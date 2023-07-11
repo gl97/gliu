@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/gliu/static/css/main.4db8a748.css",
-    "main.js": "/gliu/static/js/main.269b5f99.js",
+    "main.js": "/gliu/static/js/main.49492d3a.js",
     "index.html": "/gliu/index.html",
     "main.4db8a748.css.map": "/gliu/static/css/main.4db8a748.css.map",
-    "main.269b5f99.js.map": "/gliu/static/js/main.269b5f99.js.map"
+    "main.49492d3a.js.map": "/gliu/static/js/main.49492d3a.js.map"
   },
   "entrypoints": [
     "static/css/main.4db8a748.css",
-    "static/js/main.269b5f99.js"
+    "static/js/main.49492d3a.js"
   ]
 }
