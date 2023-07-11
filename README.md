@@ -11,4 +11,5 @@ webpage
       "deploy" : "gh-pages -d build",`
   * update the homepage
     *   `http://{github-username}.github.io/{repo-name}`
+5. Run the deploy `npm run deployy`
 
